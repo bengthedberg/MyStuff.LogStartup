@@ -1,0 +1,6 @@
+@MyStuff.LogStartup_HostAddress = http://localhost:5253
+
+GET {{MyStuff.LogStartup_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
